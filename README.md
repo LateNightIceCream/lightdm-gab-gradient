@@ -1,17 +1,14 @@
-<br>
 ![screenshot](.skrinsutan/gifd.png)
-![screenshot](.skrinsutan/gifd.gif)
 
 ## Gab Lightdm-weebkit
 - LightDM-<b>weebkit</b> Theme with modern style :D
-~~- More colorfull & animated background!~~
+- ~~More colorfull & animated background!~~
 - Single color background
 - animated Button too!!
-~~- Support MultiAccount~~
+- ~~Support MultiAccount~~
 - Multiple accounts don't work properly yet :D 
-~~- but requires more processor resources :( 10% avg.~~
+- ~~but requires more processor resources :( 10% avg.~~
 
-<br>
 <br>
 
 ## What is LightDM Webkit ?
@@ -30,13 +27,12 @@ Instructions will differ for every platform, but I can tell you how to install i
 5. Replace lightdm-gtk to lightdm-webkit in your `/usr/share/lightdm/lightdm.conf.d/60-lightdm-gtk-greeter.conf`
 6. change line code `greeter-session=lightdm-gtk-greeter` to `greeter-session=lightdm-webkit-greeter`
 
-<br>
 
 ## Font required
 you must install this `fonts`
 
-~~- Segoe UI : https://github.com/meloncholy/mt-stats-viewer/raw/master/public/fonts/segoe-ui/segoeui.ttf ~~
-~~- iosevka  : https://github.com/be5invis/Iosevka/releases/download/v2.0.1/01-iosevka-2.0.1.zip ~~
+- ~~Segoe UI : https://github.com/meloncholy/mt-stats-viewer/raw/master/public/fonts/segoe-ui/segoeui.ttf ~~
+- ~~iosevka  : https://github.com/be5invis/Iosevka/releases/download/v2.0.1/01-iosevka-2.0.1.zip ~~
 - SFNS     : https://github.com/supermarin/YosemiteSanFranciscoFont
 
 or you can customize in `CSS`
