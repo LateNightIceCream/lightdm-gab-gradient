@@ -1,5 +1,6 @@
 ![screenshot](.skrinsutan/gifd.png)
 
+<br>
 ## Gab Lightdm-weebkit
 - LightDM-<b>weebkit</b> Theme with modern style :D
 - ~~More colorfull & animated background!~~
@@ -27,8 +28,8 @@ Instructions will differ for every platform, but I can tell you how to install i
 ## Font required
 you must install this `fonts`
 
-- ~~Segoe UI : https://github.com/meloncholy/mt-stats-viewer/raw/master/public/fonts/segoe-ui/segoeui.ttf ~~
-- ~~iosevka  : https://github.com/be5invis/Iosevka/releases/download/v2.0.1/01-iosevka-2.0.1.zip ~~
+- <del>Segoe UI : https://github.com/meloncholy/mt-stats-viewer/raw/master/public/fonts/segoe-ui/segoeui.ttf</del> 
+- <del>iosevka  : https://github.com/be5invis/Iosevka/releases/download/v2.0.1/01-iosevka-2.0.1.zip</del> 
 - SFNS     : https://github.com/supermarin/YosemiteSanFranciscoFont
 
 or you can customize in `CSS`
