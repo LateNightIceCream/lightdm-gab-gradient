@@ -1,6 +1,5 @@
-![screenshot](.skrinsutan/gifd.png)
+![screenshot](.skrinsutan/gifd.png)<br>
 
-<br>
 ## Gab Lightdm-weebkit
 - LightDM-<b>weebkit</b> Theme with modern style :D
 - ~~More colorfull & animated background!~~
