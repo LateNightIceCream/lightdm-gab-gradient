@@ -49,9 +49,9 @@ if (!('lightdm' in window)) {
 
     lightdm.users = [
         {
-            name: "sexmachine",
-            real_name: "superman",
-            display_name: "Magic Wave",
+            name: "zamza",
+            real_name: "zamza",
+            display_name: "zamza",
             image: "/home/zamza/Downloads/giphy2.gif",
             language: "en_US",
             layout: null,
