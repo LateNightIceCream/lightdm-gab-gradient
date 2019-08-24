@@ -9,13 +9,9 @@
 - Multiple accounts don't work properly yet :D 
 - ~~but requires more processor resources :( 10% avg.~~
 
-<br>
-
 ## What is LightDM Webkit ?
 The lightdm-webkit-greeter allows you to choose a background image directly on the login screen. It also offers an option to display a random image each time it starts if you use the lightdm-gab-gradient theme. 
 By default, images are sourced from `/usr/share/backgrounds` . You can change the background images directory by editing lightdm-webkit-greeter.conf
-
-<br>
 
 ## Installation
 Instructions will differ for every platform, but I can tell you how to install it on `Xubuntu`
@@ -37,5 +33,4 @@ you must install this `fonts`
 
 or you can customize in `CSS`
 
-<br>
 Thanks to [Agatha Yu](https://giphy.com/agatha) for the profile picture!
