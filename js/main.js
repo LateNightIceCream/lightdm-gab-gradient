@@ -67,7 +67,7 @@ function authentication_complete()
     else
    	{
     	select_user_from_list(curr-1, true);
-    	show_message ("Passwordnya salah!");
+    	show_message ("Wrong Password!");
    	}
 
 }
@@ -103,7 +103,7 @@ function init()
 		if(curr <= 0)
 			curr = children;
 		if(children != 1) select_user_from_list(curr-1, false);
-		$("#name").css("margin-left", -31-(265*(curr-1))+"px");
+		    $("#name").css("margin-left", "calc(-100%*" + (curr-1) + ")");
 		show_message("&nbsp");
     });
 

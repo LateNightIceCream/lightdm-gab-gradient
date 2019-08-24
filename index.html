@@ -7,36 +7,31 @@
 <body>
     <div id="login-background"></div>
     <div id="wrapper">
-        <!--<div id="clock-box">
-            <script>startTime();</script>
-        </div> -->
-        <br>
-        <br>
-        <br>
+
         <div id="login-box">
             <img id="login-picture">
-            <div id="login-response"></div>
-            <br>
             <form id="login-form" action="javascript: provide_secret();">
-                <div id="last"><</div>
                 <div id="container">
-                    <div id="name">
-
-                    </div>
+                    <div id="name"></div>
+                    <span id="last"><</span>
+                    <span id="next">></span>
                 </div>
-                <div id="next">></div>
                 <input placeholder="パスワード" type="password" id="login-password" tabindex="2">
                 <button id="login-button" type="submit" tabindex="3">
-                    ログイン
+                    LOGIN
                 </button>
             </form>
+            <div id="login-response"></div>
         </div>
     </div>
-    
-    <!-- <div id="login-bar">
-        <img id="login-shutdown" src="static/action-shutdown.png" onclick="lightdm.shutdown();">
-        <img id="login-restart" src="static/action-reboot.png" onclick="lightdm.restart();">
-    </div> -->
+
+    <!--
+    <div id="login-bar">
+        <span id="login-restart" onclick="lightdm.shutdown();">&#x23fb;</span>
+        <span id="login-restart" onclick="lightdm.restart();">&#x21bb;</span>
+    </div>
+    -->
+
     <script src="js/mock.js"></script>
     <script src="js/jquery-2.1.0.min.js"></script>
     <script type="text/javascript" src="js/main.js"></script>

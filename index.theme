@@ -3,4 +3,4 @@ name=lightdm-gab-gradient
 description=Animated Gradient background
 engine=lightdm-webkit-greeter
 url=index.html
-session=xubuntu
+session=openbox-session
