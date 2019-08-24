@@ -15,6 +15,8 @@
 The lightdm-webkit-greeter allows you to choose a background image directly on the login screen. It also offers an option to display a random image each time it starts if you use the lightdm-gab-gradient theme. 
 By default, images are sourced from `/usr/share/backgrounds` . You can change the background images directory by editing lightdm-webkit-greeter.conf
 
+<br><br>
+
 ## Installation
 Instructions will differ for every platform, but I can tell you how to install it on `Xubuntu`
 
@@ -25,6 +27,7 @@ Instructions will differ for every platform, but I can tell you how to install i
 5. Replace lightdm-gtk to lightdm-webkit in your `/usr/share/lightdm/lightdm.conf.d/60-lightdm-gtk-greeter.conf`
 6. change line code `greeter-session=lightdm-gtk-greeter` to `greeter-session=lightdm-webkit-greeter`
 
+<br><br>
 
 ## Font required
 you must install this `fonts`
@@ -34,5 +37,7 @@ you must install this `fonts`
 - SFNS     : https://github.com/supermarin/YosemiteSanFranciscoFont
 
 or you can customize in `CSS`
+
+<br><br>
 
 Thanks to [Agatha Yu](https://giphy.com/agatha) for the profile picture!
