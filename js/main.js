@@ -5,6 +5,18 @@ var password = null;
 var $user = $("#name");
 var $pass = $("#login-password");
 
+var d = new Date();
+
+if(d.getHours() < 18) { // switch light/dark theme
+
+  document.body.style.backgroundColor = "#b0fff9";
+
+} else {
+
+  document.body.style.backgroundColor = "#545479";
+
+}
+
 function show_error()
 {
 	console.log("error")
