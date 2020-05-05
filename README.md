@@ -2,6 +2,7 @@
 
 ## Gab Lightdm-weebkit
 - LightDM-<b>weebkit</b> Theme with modern style :D
+- simple Dark/Light background switch if time >6pm 
 - ~~More colorfull & animated background!~~
 - Single color background
 - animated Button too!!
